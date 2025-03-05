@@ -15,5 +15,5 @@ We craft tailored software solutions to meet the unique needs of our clients in 
 
 ### Get in Touch 🤝
 
-Interested in working with us or learning more? [Contact us](https://www.devflex.pro) or check out our work in our [repositories](https://github.com/devflex-pro).
+Interested in working with us or learning more? [Contact us](https://t.me/devflexpro) or check out our work in our [repositories](https://github.com/devflex-pro).
 
