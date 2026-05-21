@@ -24,7 +24,7 @@ We design and develop custom software for the advertising and affiliate marketin
 
 ### Our Focus 🎯
 
-We help businesses build modern AdTech products — from backend infrastructure for processing traffic and conversions to full-featured dashboards for managing campaigns, partners, sources, offers, and analytics.
+We help businesses build modern AdTech products - from backend infrastructure for processing traffic and conversions to full-featured dashboards for managing campaigns, partners, sources, offers, and analytics.
 
 Whether you need a custom tracking system, affiliate platform, traffic optimization engine, or internal tools for your marketing team, we can help turn your idea into a production-ready product.
 
